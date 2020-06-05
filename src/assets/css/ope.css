@@ -1,0 +1,9 @@
+.tra-reg {
+    background: red;
+}
+
+.celda {
+    position: absolute;
+    overflow: scroll;
+    height: 10%;
+}
